@@ -1,1 +1,2 @@
 # Non-Linear-Controls
+This repo contains all projects done for the graduate level course MECE-744:Non-Linear Controls at Rochester Insititute of Technology. This course is handled by Dr. Agamemnon Crassidis. The pdfs in the repo contains the problem description and requriements for each project. The projects are done in Matlab & Simulink. Please refer the reports in each project for detailed answers
